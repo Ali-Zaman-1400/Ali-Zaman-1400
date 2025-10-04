@@ -33,6 +33,7 @@ I design and build **data pipelines, ETL workflows, and AI models** for real-wor
 
 | Project | Description | Tech |
 |----------|--------------|------|
+| [Log Analytics Pipeline (Advanced)](https://github.com/Ali-Zaman-1400/log-analytics-pipeline-advanced) | Real-world ETL and log analytics pipeline for data cleaning, SQLite storage, and Elasticsearch indexing. | Python, Pandas, Elasticsearch |
 | [AI Sentiment Analysis API](https://github.com/Ali-Zaman-1400/ai-sentiment-analysis-api) | End-to-end AI sentiment analysis with preprocessing, model training, evaluation, CLI predictions, and FastAPI serving. | Python, Scikit-learn, FastAPI |
 | [Log Analytics Pipeline](https://github.com/Ali-Zaman-1400/log-analytics-pipeline) | Professional ETL pipeline for log data: extract, clean, analyze, and load results into CSV and SQLite with reporting. | Python, SQLite, Pandas |
 | [Data Cleaning Toolkit](https://github.com/Ali-Zaman-1400/data-cleaning) | Sample Python scripts for data cleaning and preprocessing (ETL examples). | Python, Pandas |
