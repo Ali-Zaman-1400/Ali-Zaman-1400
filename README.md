@@ -22,7 +22,7 @@ I design and build **data pipelines, ETL workflows, and AI models** for real-wor
  Pandas, NumPy, TensorFlow, Scikit-learn, Spark  
 
 **Data Engineering:**  
- Airflow, Kafka, Elasticsearch, PostgreSQL, cassandra 
+ Airflow, Kafka, Elasticsearch, PostgreSQL, Cassandra 
 
 **DevOps & APIs:**  
  Docker, FastAPI, Git, Linux  
