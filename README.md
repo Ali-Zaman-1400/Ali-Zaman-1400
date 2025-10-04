@@ -47,8 +47,9 @@ I design and build **data pipelines, ETL workflows, and AI models** for real-wor
  [GitHub](https://github.com/Ali-Zaman-1400)  
  [LinkedIn](#)  
  [Fiverr](https://www.fiverr.com/ali_etl_ml)
- 
- Gmail: seczaman1400@gmail.com
+  
 ---
 
  _“Turning raw data into intelligent systems through AI and engineering.”_
+
+Gmail: seczaman1400@gmail.com
