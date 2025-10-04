@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Ali Zamanpour
 
-<!--
-**Ali-Zaman-1400/Ali-Zaman-1400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineer & AI Specialist**  
+I design and build **data pipelines, ETL workflows, and AI models** for real-world analytics and automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+-  Currently working on **AI-driven data processing systems**
+-  Exploring **MLOps, FastAPI, and Large Language Models (LLMs)**
+-  Passionate about transforming raw data into **actionable insights**
+-  Focused on scalable and privacy-preserving architectures
+
+---
+
+##  Tech Stack
+
+**Languages:**  
+ Python,  SQL,  Bash,  JavaScript  
+
+**Data & ML Tools:**  
+ Pandas, NumPy, TensorFlow, Scikit-learn, Spark  
+
+**Data Engineering:**  
+ Airflow, Kafka, Elasticsearch, PostgreSQL, cassandra 
+
+**DevOps & APIs:**  
+ Docker, FastAPI, Git, Linux  
+
+---
+
+##  Featured Projects
+
+| Project | Description | Tech |
+|----------|--------------|------|
+| [Log Analytics Pipeline](https://github.com/Ali-Zaman-1400/log-analytics-pipeline) | ETL pipeline for system logs with Elasticsearch & Spark | Python, Spark, Elasticsearch |
+| [AI Sentiment Analysis](https://github.com/Ali-Zaman-1400/ai-sentiment-analysis) | End-to-end ML project with FastAPI serving | Scikit-learn, FastAPI |
+| [Data Cleaning Toolkit](https://github.com/Ali-Zaman-1400/data-cleaning) | Automated CSV/Excel cleaner with Pandas | Python, Pandas |
+
+---
+
+##  Let's Connect
+
+ [GitHub](https://github.com/Ali-Zaman-1400)  
+ [LinkedIn](#)  
+ [Fiverr](https://www.fiverr.com/ali_etl_ml)
+ **seczaman1400@gmail.com**
+
+---
+
+ _“Turning raw data into intelligent systems through AI and engineering.”_
